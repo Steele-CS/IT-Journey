@@ -1,0 +1,4 @@
+# What is networking?
+
+## What is a network?
+A network is a collection of devices that are connected to each other to share data and resources. A network is composed of many different parts; the devices themselves could be a computer,laptop,printer,phone or even a TV. The connections between these devices can be wired which uses ethernet cables, or wireless which uses Wi-Fi. The device that joins all these connections is called a switch. A switch connects the devices of a network together and also manages the traffic between the devices to prevent the traffic from one device to interfere with another.
