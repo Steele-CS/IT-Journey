@@ -1,4 +1,4 @@
-# IT-Journey
+# IT_Journey
 My name is Tayvon Steele, and I am an Information Systems student at UMBC. The purpose of this repo is to document the progress I am making on my IT journey.
 
 ## Goal
